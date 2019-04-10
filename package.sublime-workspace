@@ -1,0 +1,314 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"le",
+				"left"
+			],
+			[
+				"st",
+				"str"
+			],
+			[
+				"s",
+				"substring"
+			],
+			[
+				"bu",
+				"buffer"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "g",
+		"selected_items":
+		[
+			[
+				"g",
+				"Set Syntax: Java Server Page (JSP)"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"git"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/zhangpengfei/Downloads/项目配置文件.txt",
+		"/Users/zhangpengfei/work/zhishinet_svn/trunk/docs/4.5质量管理_表设计/table/自学优化1.0/altertable.sql",
+		"/Users/zhangpengfei/.m2/settings.xml",
+		"/Users/zhangpengfei/work/choerodon/oauth-server/pom.xml",
+		"/private/etc/hosts",
+		"/Users/zhangpengfei/work/apache-tomcat-8.5.20/conf/web.xml",
+		"/Users/zhangpengfei/work/apache-tomcat-8.5.20/conf/context.xml",
+		"/Users/zhangpengfei/.ssh/rsa_public_key.pem",
+		"/Users/zhangpengfei/Desktop/pri.key",
+		"/Users/zhangpengfei/Desktop/pub.key",
+		"/Users/zhangpengfei/Documents/远程服务器 /username.txt",
+		"/Users/zhangpengfei/Downloads/airflyfree (2)/使用教程&下载必读.txt",
+		"/Users/zhangpengfei/Downloads/厚黑学.txt",
+		"/Users/zhangpengfei/Downloads/getAccessToken",
+		"/Users/zhangpengfei/Downloads/hello",
+		"/Users/zhangpengfei/Desktop/test-reward.sql",
+		"/Users/zhangpengfei/work/dubbo/dubbo-demo/incubator-dubbo-samples/pom.xml",
+		"/Users/zhangpengfei/Downloads/rss",
+		"/Users/zhangpengfei/work/zhishinet_svn/trunk/docs/4.5质量管理_表设计/table/自主学习2.0/self-study-2.0-mongo.js",
+		"/Users/zhangpengfei/work/zhishinet_svn/trunk/docs/4.5质量管理_表设计/table/自主学习/self-study-2.0-mongo.js",
+		"/Users/zhangpengfei/work/zhishinet_svn/trunk/docs/4.5质量管理_表设计/table/自主学习/self-study-mongo.js",
+		"/Users/zhangpengfei/Desktop/Ubuntu Pastebin.txt",
+		"/Users/zhangpengfei/Desktop/aes3.txt",
+		"/Users/zhangpengfei/Desktop/aes1.txt",
+		"/Users/zhangpengfei/Desktop/aes2.txt",
+		"/Users/zhangpengfei/Library/Containers/com.tencent.qq/Data/Library/Application Support/QQ/Users/442728644/QQ/Temp.db/qz.db/加密U盘开发秘钥对_zip1/加密U盘开发秘钥对/.net/prikey.xml",
+		"/Users/zhangpengfei/Downloads/ffmpeg-fcbd117/INSTALL.md",
+		"/Users/zhangpengfei/Desktop/m3u8.M3U8",
+		"/Users/zhangpengfei/Downloads/防拷贝优盘_开发版_标准开发包.20181207/API/SZU110/Windows/libs/x86_64/FSShellC.dll",
+		"/Users/zhangpengfei/Desktop/自学 2/wordCard",
+		"/Users/zhangpengfei/Desktop/自学 2/主题列表",
+		"/Users/zhangpengfei/Downloads/self-study.js",
+		"/Users/zhangpengfei/work/python/Untitled Folder/python 爬虫/spider 爬虫.ipynb",
+		"/Users/zhangpengfei/Desktop/预览.json",
+		"/Users/zhangpengfei/Desktop/self-study.yml",
+		"/Users/zhangpengfei/Desktop/听力理解.json",
+		"/Users/zhangpengfei/Desktop/词汇语法，阅读理解.json",
+		"/Users/zhangpengfei/Downloads/selfCombine.json",
+		"/Users/zhangpengfei/Downloads/zhishinet-self-study/pom.xml",
+		"/Users/zhangpengfei/Downloads/zhishinet-self-study/.mvn/wrapper/maven-wrapper.properties",
+		"/Users/zhangpengfei/work/zookeeper/zookeeper-3.4.13/conf/zoo_sample.cfg",
+		"/Applications/IntelliJ IDEA.app/Contents/bin/idea.vmoptions",
+		"/Users/zhangpengfei/Downloads/新建文本文档.json",
+		"/Users/zhangpengfei/Downloads/rain.html",
+		"/Users/zhangpengfei/Downloads/_config.yml",
+		"/Users/zhangpengfei/Downloads/HzsQuestionMapper.xml",
+		"/Users/zhangpengfei/Downloads/优化中心上线事项_1.0_11261847.md",
+		"/Users/zhangpengfei/work/zhishinet_svn/trunk/docs/4.5质量管理_表设计/table/题目审核/mongo.js",
+		"/Users/zhangpengfei/Downloads/export_result-6.JSON",
+		"/Users/zhangpengfei/Desktop/student_launch.json",
+		"/Users/zhangpengfei/docker-compose.yml",
+		"/Users/zhangpengfei/Library/Containers/com.tencent.qq/Data/Library/Application Support/QQ/Users/442728644/QQ/Temp.db/qz.db/zhishinet-swagger-master-b75aca29584d9c4d502a2f4a2cecd1e68a1c62a0_zip0/zhishinet-swagger-master-b75aca29584d9c4d502a2f4a2cecd1e68a1c62a0/test/questionnaire.yml",
+		"/Users/zhangpengfei/Downloads/export_result-5.JSON",
+		"/Users/zhangpengfei/Downloads/export_result-4.JSON",
+		"/Users/zhangpengfei/Desktop/movie.json",
+		"/Users/zhangpengfei/Downloads/FeHelper-20181025174412 (2).json",
+		"/Users/zhangpengfei/Downloads/FeHelper-20181022172915.json",
+		"/Users/zhangpengfei/Downloads/20181024(1).json",
+		"/Users/zhangpengfei/Downloads/oral_exam_lauch.json",
+		"/Users/zhangpengfei/Downloads/export_result-3.JSON",
+		"/Users/zhangpengfei/Downloads/微服务知识整理.md",
+		"/Users/zhangpengfei/Downloads/json.json",
+		"/Users/zhangpengfei/Downloads/launch.json",
+		"/Users/zhangpengfei/Downloads/Spring Cloud/微服务概述.md",
+		"/Users/zhangpengfei/Desktop/ocr_launch.json",
+		"/Users/zhangpengfei/Downloads/save.json",
+		"/Users/zhangpengfei/Desktop/launch.json",
+		"/Users/zhangpengfei/Downloads/data.json",
+		"/Users/zhangpengfei/Downloads/OCR-combine.json",
+		"/Users/zhangpengfei/ids-staging-zhishinet-identity-soapui-project.xml",
+		"/Users/zhangpengfei/Desktop/assessment.json",
+		"/Users/zhangpengfei/Desktop/updateShoppingCart.json",
+		"/Users/zhangpengfei/Downloads/创建或更新活动接口参数(1).json",
+		"/Users/zhangpengfei/Desktop/创建或更新活动接口参数.json",
+		"/Users/zhangpengfei/Downloads/创建或更新活动接口参数.json",
+		"/Users/zhangpengfei/work/luascript/hello.lua",
+		"/Users/zhangpengfei/Desktop/作业详情.json",
+		"/Users/zhangpengfei/Downloads/fibReading.json",
+		"/Users/zhangpengfei/Downloads/settings.xml",
+		"/Users/zhangpengfei/work/zhishinet_code/zhishinet_report/Tomcat/conf/context.xml",
+		"/Users/zhangpengfei/Downloads/export_result-12.JSON",
+		"/Users/zhangpengfei/Desktop/口语新题型相关表.sql",
+		"/Users/zhangpengfei/Desktop/mysqld.cnf",
+		"/Users/zhangpengfei/Downloads/FeHelper-20180131191254.json",
+		"/Users/zhangpengfei/Desktop/error.log",
+		"/Users/zhangpengfei/Desktop/test.xml",
+		"/Users/zhangpengfei/Downloads/FeHelper-20180116172158.json",
+		"/Users/zhangpengfei/Desktop/口语题型结构.json",
+		"/Users/zhangpengfei/Desktop/message.json",
+		"/Users/zhangpengfei/Downloads/management-console.yml",
+		"/Users/zhangpengfei/Desktop/error.txt",
+		"/Users/zhangpengfei/work/zhishinet_code/Hap3.0/hap/src/main/webapp/lib/assets/global/plugins/codemirror/mode/nginx/nginx.js",
+		"/Users/zhangpengfei/Desktop/licenseKey.lic",
+		"/Users/zhangpengfei/work/mailapp/nylas-mail/packages/client-app/node_modules/googleapis/node_modules/qs/dist/qs.js",
+		"/Users/zhangpengfei/Desktop/mongo作业数据修复.txt",
+		"/Users/zhangpengfei/Desktop/ids-test-zhishinet-soapui-project.xml",
+		"/Users/zhangpengfei/Desktop/PROCEDURE_IsRequireInit",
+		"/Users/zhangpengfei/work/zhishinet_code/zhishinet_activity/activity/pom.xml",
+		"/Users/zhangpengfei/Desktop/[SQL] Query 导入班级套题册 start.txt",
+		"/Users/zhangpengfei/Desktop/messageCenterErrorLog.txt",
+		"/Users/zhangpengfei/Desktop/导入班级套题册.sql",
+		"/Users/zhangpengfei/Desktop/.setting",
+		"/Users/zhangpengfei/Desktop/alterTable.sql",
+		"/Users/zhangpengfei/Downloads/config-server.yml",
+		"/Users/zhangpengfei/Downloads/log.log",
+		"/Users/zhangpengfei/Desktop/HZSHomeworkSuitQuestionCount.sql",
+		"/Users/zhangpengfei/Desktop/INSERTHZSHomeworkSuitQuestionCount.sql",
+		"/Users/zhangpengfei/work/docker/mysql/FROM debian:jessie",
+		"/Users/zhangpengfei/Desktop/portal-ext.properties",
+		"/Users/zhangpengfei/work/zhishi_svn/trunk/docs/4.5质量管理_表设计/table/套题/InsertFndMessage.sql",
+		"/Users/zhangpengfei/Desktop/作业保存格式.json",
+		"/Users/zhangpengfei/Desktop/1.json",
+		"/Users/zhangpengfei/work/zhishi_svn/trunk/docs/4.5质量管理_表设计/table/InsertLookupValues.sql",
+		"/Users/zhangpengfei/work/zhishinet_code/zhishinet_service/homework/src/main/java/com/hand/zhishinet/homework/other/service/IHzsUserFirstTimeLoginService.java",
+		"/Users/zhangpengfei/work/zhishinet_code/zhishinet_service/homework/src/main/java/com/hand/zhishinet/homework/other/service/IHzsStudentHomeworkService.java",
+		"/Users/zhangpengfei/work/zhishinet_code/zhishinet_service/homework/src/main/java/com/hand/zhishinet/homework/other/service/IHzsQuesTypePreferenceService.java",
+		"/Users/zhangpengfei/work/zhishinet_code/zhishinet_service/homework/src/main/java/com/hand/zhishinet/homework/other/service/IHzsQuestionTypeStatisticsService.java",
+		"/Users/zhangpengfei/work/zhishinet_code/zhishinet_service/homework/src/main/java/com/hand/zhishinet/homework/other/service/IHzsHomeworkTypePreferenceService.java",
+		"/Users/zhangpengfei/work/zhishinet_code/zhishinet_service/homework/src/main/java/com/hand/zhishinet/homework/other/service/IHzsHomeworkTextbookService.java",
+		"/Users/zhangpengfei/work/zhishinet_code/zhishinet_service/homework/src/main/java/com/hand/zhishinet/homework/other/service/IHzsCourseSessionService.java",
+		"/Users/zhangpengfei/work/zhishinet_code/zhishinet_service/homework/src/main/java/com/hand/zhishinet/homework/other/service/IHzsAssessmentTypeService.java",
+		"/Users/zhangpengfei/temp_folder/reward.sql",
+		"/Users/zhangpengfei/Library/Containers/com.zennaware.cornerstone3.mas/Data/Library/Caches/Cornerstone/Store/svn%3A%2F%2Fweisen.yang%40cloudsvn.chinacloudapp.cn%2FMobileProject/0000011788/HAP/trunk/docs/4.5%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86_%E8%A1%A8%E8%AE%BE%E8%AE%A1/table/InsertLookupValues.sql",
+		"/Users/zhangpengfei/Documents/zhishinet_svn/trunk/docs/4.5质量管理_表设计/table/InsertLookupValues.sql",
+		"/Users/zhangpengfei/Documents/zhishinet_svn/trunk/docs/4.5质量管理_表设计/table/AlterTable.sql",
+		"/Users/zhangpengfei/Documents/zhishinet_svn/trunk/docs/4.5质量管理_表设计/table/HZSCurriculumUserDefaultQuery.sql",
+		"/Users/zhangpengfei/Documents/zhishinet_svn/trunk/docs/4.5质量管理_表设计/table/HZSPayOrders.sql",
+		"/Users/zhangpengfei/Documents/zhishinet_svn/trunk/docs/4.5质量管理_表设计/table/HzsUserHistory.sql"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "package.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 157.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
